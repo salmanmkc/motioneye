@@ -4,7 +4,7 @@
 
 Check out the [__wiki__](https://github.com/motioneye-project/motioneye/wiki) for more details. Changelog is available on the [__releases page__](https://github.com/motioneye-project/motioneye/releases).
 
-From version 0.43, **motionEye** is multilingual:
+From version 0.43, **motionEye** is multilingual:.
 
 | [![](https://hosted.weblate.org/widgets/motioneye-project/-/287x66-black.png)<br>![](https://hosted.weblate.org/widgets/motioneye-project/-/multi-auto.svg)](https://hosted.weblate.org/engage/motioneye-project/) |
 | -: |
