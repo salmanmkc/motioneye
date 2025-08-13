@@ -1,4 +1,4 @@
-name: update_locales v5
+name: update_locales v4
 
 on: pull_request
 
@@ -31,7 +31,7 @@ jobs:
         sudo apt-get -q update
         sudo DEBIAN_FRONTEND='noninteractive' apt-get -qq --no-install-recommends install gettext
 
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v4
       with:
         ref: ${{ github.head_ref }}
         # https://github.com/peter-evans/create-pull-request/issues/48
