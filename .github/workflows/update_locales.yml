@@ -1,6 +1,6 @@
 name: update_locales
 
-on: pull_request
+on: pull_request_target
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
