@@ -15,7 +15,6 @@ defaults:
 
 jobs:
   update_locales:
-    # Skip for forks and dependabot which have no access to secrets (PAT)
     runs-on: ubuntu-24.04
     steps:
 
